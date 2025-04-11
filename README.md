@@ -1,2 +1,2 @@
-# 1st-Project
-Registration Form
+1st-Project
+Student Registration Form
